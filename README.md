@@ -4,6 +4,11 @@
   <h1 align="center"><b>Hello there, I'm Swumplurd 👾</b></h1>
 </p>
 
+<p>
+  <h4 align="center"><b>"If you can imagine it, you can program it"</b></h4>
+  <h5 align="center">ProgramacionATS</h5>
+</p>
+
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/swumplurd" />
 </p>
@@ -53,3 +58,13 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width=32/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width=32/>
 </div>
+
+### About me
+
+- 🔭 I’m currently working on my professional residences
+- 🌱 I’m currently learning NextJS
+- 👯 I’m looking to collaborate on any private or open source project
+- 🤔 I’m looking for help to find a job
+- 💬 Ask me about code
+- 📫 How to reach me: swumplurd@outlook.com
+- ✍️ In my free time, I play guitar, play videogames, spend time with my family and watch some animes.\
